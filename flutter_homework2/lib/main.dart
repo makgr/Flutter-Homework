@@ -45,7 +45,7 @@ class UserSignUp extends StatelessWidget{
             SizedBox(height: 12,),
 
             TextField(
-              obscureText: true,  
+              obscureText: true,  //text hiding
               decoration: InputDecoration(
                 border: OutlineInputBorder(),
                 labelText: 'Password',
