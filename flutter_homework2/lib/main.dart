@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 void main(List<String> args) {
   runApp(MaterialApp(
+    title: 'Flutter homework 2',
     home: UserSignUp(),
   ));
 }
